@@ -1,0 +1,11 @@
+{
+  "manifest_version":3,
+  "name":"tabArts",
+  "version": "0.1",
+  "description":"New Arts in Every Tab",
+  "icons":{},
+  "author":"rolifydev",
+  "chrome_url_overrides" : {
+    "newtab": "index.html"
+  }
+}
